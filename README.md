@@ -7,9 +7,9 @@
 
 **会的东西**
 
-- 逆向：x64dbg / IDA / Il2CppDumper / CE / Frida
+- 逆向：主打游戏客户端
 - 语言：Python · C++ · Rust · C#
-- 游戏：Unity / UE，IL2CPP 逆向
+- 游戏：Unity / UE（IL2CPP）、.NET 系（Mono）都能逆
 - 平台：Windows 忠实用户，Linux 常驻用户
 
 **公开项目**
