@@ -8,7 +8,7 @@ CS2 逆向开发外挂是主项，Unity / UE 游戏辅助也做。
 
 **会的东西**
 
-- 逆向：x64dbg / IDA / CE / Il2CppDumper / Frida / dnSpy
+- 逆向：x64dbg / IDA / CE / Il2CppDumper / Frida / dnSpy / UE Dumper7
 - 开发：VS / dotnet / git
 - 语言：Python · C++ · Rust · C#
 - 游戏：CS2、Unity / UE（IL2CPP）、.NET 系（Mono）
