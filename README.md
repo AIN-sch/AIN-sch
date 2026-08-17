@@ -22,7 +22,3 @@
 **交流**
 
 QQ 技术群：**1102821216**（加群需注明来源）
-
----
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=AIN-sch&show_icons=true&theme=dark&count_private=true&hide_title=true)](https://github.com/AIN-sch)
