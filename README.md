@@ -1,6 +1,7 @@
 ### 你好，我是 AleOsh 👋
 
 逆向工程爱好者，偏业余的渗透测试，Web 逆向也在玩。
+CS2 逆向开发外挂是主项，Unity / UE 游戏辅助也做。
 做过的游戏外挂开源在下面，二创随意。
 
 啥都能做，但不一定啥都想做。难的和简单的，可能会，也可能不会。
@@ -8,8 +9,9 @@
 **会的东西**
 
 - 逆向：x64dbg / IDA / CE / Il2CppDumper / Frida / dnSpy
+- 开发：VS / dotnet / git
 - 语言：Python · C++ · Rust · C#
-- 游戏：Unity / UE（IL2CPP）、.NET 系（Mono）都能逆
+- 游戏：CS2、Unity / UE（IL2CPP）、.NET 系（Mono）
 - 平台：Windows 忠实用户，Linux 常驻用户
 
 **公开项目**
