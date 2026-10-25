@@ -15,7 +15,7 @@ Python / C++ / Rust / C#
 
 **碰过的**
 
-Source 2（CS2）、Unity / UE（IL2CPP、.NET 与 Mono）、Windows 内核、Linux 提权
+Source 2（CS2）、Unity / UE（IL2CPP、.NET 与 Mono）、Windows kernel、Linux 渗透
 
 **联系**
 
